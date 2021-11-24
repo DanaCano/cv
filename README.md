@@ -22,7 +22,7 @@ Dans mon cas, pour travailler en local sur un mac (localhost), j'ai installé XA
 
 MySQL: c'est un logiciels de gestion de base de données, un serveur, l’endroit où les données résident réellement (client-serveur).
 
-XAMPP: https://xampp-for-mac-os-x.fr.uptodown.com/mac
+XAMPP: https://sourceforge.net/projects/xampp/
 
 Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=1GevfhBGGWs
 
