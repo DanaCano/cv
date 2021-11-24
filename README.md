@@ -22,6 +22,10 @@ Dans mon cas, pour travailler en local sur un mac (localhost), j'ai installé XA
 
 MySQL: c'est un logiciels de gestion de base de données, un serveur, l’endroit où les données résident réellement (client-serveur).
 
+XAMPP: https://xampp-for-mac-os-x.fr.uptodown.com/mac
+
+Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=1GevfhBGGWs
+
 Si vous commencez tout juste à vous familiariser avec le développement web, vous n'avez pas besoin d'installer un plugin tout de suite. Je vous suggère de commencer par connaître les outils et au fur et à mesure de vos projets, vous découvrirez petit à petit de nouveaux programmes et extensions. 
 
 PLUGINS: il s'agit de petits programmes supplémentaires qui élargissent les fonctions des applications et des programmes.
