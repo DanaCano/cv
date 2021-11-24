@@ -39,6 +39,7 @@ Git n'est pas le seul qui existe bien sûr, mais d'après mes échanges durant m
 J'ai poussé plus loin pour savoir comment faire, car je suis très curieuse. Voici l'information pour l'installer sur l'un de ces deux sites si vous le souhaitez :
 
 https://sourceforge.net/projects/git-osx-installer/
+
 https://git-scm.com/downloads
 
 Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=4uIqyTGXXso
@@ -46,12 +47,19 @@ Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=4uIqyTGXXso
 3. Il existe d'autres éditeurs de code gratuits offrant certaines fonctions supplémentaires payantes, voici une liste de ceux qui me semblent intéressants:
 
 VISUAL STUDIO https://code.visualstudio.com/
+
 ATOM https://atom.io/
+
 SUBLIME TEXT https://www.sublimetext.com/
+
 NOTEPAD++ https://notepad-plus-plus.org/downloads/
+
 KOMODO EDIT https://www.activestate.com/products/komodo-ide/downloads/edit/
+
 Eclipse https://www.eclipse.org/
+
 Android Studio (pour développer sous Android) https://developer.android.com/studio/
+
 Outils pour le développement Web (en anglais): https://www.keycdn.com/blog/web-development-tools/
 
 La décision de choisir l'un ou l'autre dépend du processus de travail, de la compatibilité de votre système d'exploitation ou de celui avec lequel vous vous sentez le plus à l'aise.
@@ -71,9 +79,13 @@ voici les pépites que j'ai trouvées au cours de mes recherches:
 5. Et enfin je partage avec vous quelques sites, des exemples de codes sources que j'ai trouvé intéressants:
 
 Python https://github.com/geekcomputers/Python
+
 C# http://www.csharp-examples.net/
+
 C  https://www.programiz.com/c-programming/examples
+
 Javascript https://www.w3schools.com/js/js_examples.asp
+
 et pour trouver n'importe quel code dans n'importe quel langage: https://searchcode.com/
 
 Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner.
