@@ -11,7 +11,7 @@
 *Il faut être vraiment passionné et aimer ce métier pour y arriver, mais avec beaucoup d'efforts, de patience et de volonté,
 on peut réaliser des choses merveilleuses, surtout dans le cadre d'une reconversion professionnelle comme celle que j'effectue dans laquelle je me sens fière et heureuse de pouvoir réaliser un grand rêve.*
 
-[center]**Nothing is impossible ! :)**[/center]
+**Nothing is impossible ! :)**
 
 ![gif](https://media.giphy.com/media/cbKNG6UV5WF7t6Lpdx/giphy.gif)
 ---
