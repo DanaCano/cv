@@ -15,7 +15,7 @@ on peut réaliser des choses merveilleuses, surtout dans le cadre d'une reconver
 ---
 ![gif](https://media.giphy.com/media/cbKNG6UV5WF7t6Lpdx/giphy.gif)
 ---
-Des programmes qui peuvent être installés pour aider à la réalisation de vos projets sur Mac:
+Des programmes qui peuvent être installés pour aider à la réalisation de vos projets sur Mac <span class="bg-info text-success">texte coloré en vert sur fond bleu</span>
 
 1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM [site]: (https://www.jetbrains.com/phpstorm/) 
 
