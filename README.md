@@ -12,23 +12,24 @@
 on peut réaliser des choses merveilleuses, surtout dans le cadre d'une reconversion professionnelle comme celle que j'effectue dans laquelle je me sens fière et heureuse de pouvoir réaliser un grand rêve.*
 
 **Nothing is impossible ! :)**
+![gif](https://media.giphy.com/media/cbKNG6UV5WF7t6Lpdx/giphy.gif)
 ---
 
 Des programmes qui peuvent être installés pour aider à la réalisation de vos projets sur Mac:
 
-1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM (https://www.jetbrains.com/phpstorm/ "phpstorm, jetbrains") 
+1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM [site]: (https://www.jetbrains.com/phpstorm/) 
 
 Cet éditeur de code n'est pas gratuit, il a un prix par an que vous pouvez payer mensuellement et au fur et à mesure que les années passent, vous pouvez obtenir un pourcentage de réduction sur vos mensualités, selon la promotion du moment, il est facile à installer et à utiliser.
 
-Vous trouverez toujours la dernière version à installer sur le site que j'ai indiqué ci-dessus et je partage avec vous idée globale de l'installation, un exemple de tutoriel de l'installation sur youtube, à titre de suggestion si vous souhaitez le voir: https://www.youtube.com/watch?v=i7zmm_8-gjY . 
+Vous trouverez toujours la dernière version à installer sur le site que j'ai indiqué ci-dessus et je partage avec vous idée globale de l'installation, un exemple de tutoriel de l'installation sur youtube, à titre de suggestion si vous souhaitez le voir [site]: (https://www.youtube.com/watch?v=i7zmm_8-gjY) . 
 
 Dans mon cas, pour travailler en local sur un mac (localhost), j'ai installé XAMPP, c'est gratuite, facile à installer et à l'intérieur je peux aussi trouver MySQL, intéressant pour mes futurs projets aussi.
 
 MySQL: c'est un logiciels de gestion de base de données, un serveur, l’endroit où les données résident réellement (client-serveur).
 
-XAMPP sur mac: https://sourceforge.net/projects/xampp/
+XAMPP sur mac [site]: (https://sourceforge.net/projects/xampp/)
 
-Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=1GevfhBGGWs
+Tuto youtube d'installation sur mac [site]: (https://www.youtube.com/watch?v=1GevfhBGGWs)
 
 Pour Windows: https://www.wampserver.com/
 
