@@ -14,7 +14,7 @@ on peut réaliser des choses merveilleuses, surtout dans le cadre d'une reconver
 
 Des programmes qui peuvent être installés pour aider à la réalisation de vos projets sur Mac:
 
-1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM https://www.jetbrains.com/phpstorm/
+1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM (https://www.jetbrains.com/phpstorm/ "phpstorm, jetbrains") 
 
 Cet éditeur de code n'est pas gratuit, il a un prix par an que vous pouvez payer mensuellement et au fur et à mesure que les années passent, vous pouvez obtenir un pourcentage de réduction sur vos mensualités, selon la promotion du moment, il est facile à installer et à utiliser.
 
