@@ -45,6 +45,7 @@ Pour Windows
 ~~~
 https://www.wampserver.com/
 ~~~
+
 Si vous commencez tout juste à vous familiariser avec le développement web, vous n'avez pas besoin d'installer un plugin tout de suite. Je vous suggère de commencer par connaître les outils et au fur et à mesure de vos projets, vous découvrirez petit à petit de nouveaux programmes et extensions. 
 
 PLUGINS: il s'agit de petits programmes supplémentaires qui élargissent les fonctions des applications et des programmes.
@@ -63,9 +64,15 @@ J'ai poussé plus loin pour savoir comment faire, car je suis très curieuse. Vo
 ~~~
 https://sourceforge.net/projects/git-osx-installer/
 ~~~
+
+~~~
 https://git-scm.com/downloads
 ~~~
-Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=4uIqyTGXXso
+
+Tuto youtube d'installation sur mac: 
+~~~
+https://www.youtube.com/watch?v=4uIqyTGXXso
+~~~
 
 3. Il existe d'autres éditeurs de code gratuits offrant certaines fonctions supplémentaires payantes, voici une liste de ceux qui me semblent intéressants:
 
