@@ -80,12 +80,15 @@ La décision de choisir l'un ou l'autre dépend du processus de travail, de la c
 Il ne faut pas hésitez à s'ouvrir aux autres pour poser des questions :) donc
 voici les pépites que j'ai trouvées au cours de mes recherches:
 
-* Une pépite en français: https://www.developpez.net/forums/ 
+- Une pépite en français:
+~~~
+https://www.developpez.net/forums/ 
+~~~
 
-* Les Pépites des communautés internationales: https://www.quora.com/topic/Computer-Programming
+- Les Pépites des communautés internationales: https://www.quora.com/topic/Computer-Programming
   https://www.reddit.com/r/programming/ 
  
-* La pépite légendaire:  https://stackoverflow.com/
+- La pépite légendaire:  https://stackoverflow.com/
 
 5. Et enfin je partage avec vous quelques sites, des exemples de codes sources que j'ai trouvé intéressants:
 
