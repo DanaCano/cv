@@ -50,6 +50,7 @@ Si vous commencez tout juste à vous familiariser avec le développement web, vo
 
 PLUGINS: il s'agit de petits programmes supplémentaires qui élargissent les fonctions des applications et des programmes.
 
+
 2. Dans mon cas, pour exposer mes projets réalisés en PHPSTORM j'ai créé un compte ici sur Github. Il existe dans PHPSTORM une option pour envoyer les modifications de mes projets dans "Repositories" github, vous pouvez les rendre publiques ou non, tout dépend du paramètre que vous avez choisi précédemment dans ce dernier; je le garde toujours public.
 
 Pour ceux qui lisent cet article, vous pouvez installer Git mais dans mon cas, comme l'IDE PHPSTORM l'a déjà inclus, même Xcode l'a déjà aussi donc je ne l'ai pas fait par besoin. 
@@ -118,6 +119,7 @@ https://www.keycdn.com/blog/web-development-tools/
 
 La décision de choisir l'un ou l'autre dépend du processus de travail, de la compatibilité de votre système d'exploitation ou de celui avec lequel vous vous sentez le plus à l'aise.
 
+
 4. Vous devez être conscient que ce métier évolue constamment, vous devez vous documenter et vous mettre à jour en permanence, ce qui est tout à fait normal. Personne ne peut savoir absolument tout, c'est pourquoi il faut aussi avoir l'esprit d'équipe, partager mais aussi ne pas hésiter à demander à ses collègues ou amis et ne pas hésiter à consulter l'internet en cas de doutes.
 
 Il ne faut pas hésitez à s'ouvrir aux autres pour poser des questions :) donc
@@ -132,24 +134,45 @@ https://www.developpez.net/forums/
 ~~~
  https://www.quora.com/topic/Computer-Programming
 ~~~
- https://www.reddit.com/r/programming/ 
+
+~~~
+https://www.reddit.com/r/programming/ 
 ~~~
  
-- La pépite légendaire:  https://stackoverflow.com/
+- La pépite légendaire:  
+~~~
+https://stackoverflow.com/
+~~~
+
 
 5. Et enfin je partage avec vous quelques sites, des exemples de codes sources que j'ai trouvé intéressants:
 
-Python https://github.com/geekcomputers/Python
+Python 
+~~~
+https://github.com/geekcomputers/Python
+~~~
 
-C# http://www.csharp-examples.net/
+C# 
+~~~
+http://www.csharp-examples.net/
+~~~
 
-C  https://www.programiz.com/c-programming/examples
+C  
+~~~
+https://www.programiz.com/c-programming/examples
+~~~
 
-Javascript https://www.w3schools.com/js/js_examples.asp
+Javascript 
+~~~
+https://www.w3schools.com/js/js_examples.asp
+~~~
 
-et pour trouver n'importe quel code dans n'importe quel langage: https://searchcode.com/
+et pour trouver n'importe quel code dans n'importe quel langage 
+~~~
+https://searchcode.com/
+~~~
 
-Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner.
+_Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner._
 
-Merci beaucoup et à bientôt !
+**_Merci beaucoup et à bientôt !_**
 
