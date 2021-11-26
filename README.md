@@ -59,11 +59,11 @@ GIT: c'est un système de contrôle de version, c'est un moyen de garder une tra
 Git n'est pas le seul qui existe bien sûr, mais d'après mes échanges durant mes dernières années d'expérience professionnelle, Git est l'un des plus utilisés.
 
 J'ai poussé plus loin pour savoir comment faire, car je suis très curieuse. Voici l'information pour l'installer sur l'un de ces deux sites si vous le souhaitez :
-
+~~~
 https://sourceforge.net/projects/git-osx-installer/
-
+~~~
 https://git-scm.com/downloads
-
+~~~
 Tuto youtube d'installation sur mac: https://www.youtube.com/watch?v=4uIqyTGXXso
 
 3. Il existe d'autres éditeurs de code gratuits offrant certaines fonctions supplémentaires payantes, voici une liste de ceux qui me semblent intéressants:
@@ -92,9 +92,9 @@ Il ne faut pas hésitez à s'ouvrir aux autres pour poser des questions :) donc
 voici les pépites que j'ai trouvées au cours de mes recherches:
 
 - Une pépite en français:
-~~~
+
 https://www.developpez.net/forums/ 
-~~~
+
 
 - Les Pépites des communautés internationales: https://www.quora.com/topic/Computer-Programming
   https://www.reddit.com/r/programming/ 
