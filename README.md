@@ -12,9 +12,9 @@
 on peut réaliser des choses merveilleuses, surtout dans le cadre d'une reconversion professionnelle comme celle que j'effectue dans laquelle je me sens fière et heureuse de pouvoir réaliser un grand rêve.*
 
 **Nothing is impossible ! :)**
+---
 ![gif](https://media.giphy.com/media/cbKNG6UV5WF7t6Lpdx/giphy.gif)
 ---
-
 Des programmes qui peuvent être installés pour aider à la réalisation de vos projets sur Mac:
 
 1. Dans mon cas, j'avais déjà une clé d'accès pour utiliser PHPSTORM [site]: (https://www.jetbrains.com/phpstorm/) 
