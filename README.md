@@ -76,21 +76,45 @@ https://www.youtube.com/watch?v=4uIqyTGXXso
 
 3. Il existe d'autres éditeurs de code gratuits offrant certaines fonctions supplémentaires payantes, voici une liste de ceux qui me semblent intéressants:
 
-VISUAL STUDIO https://code.visualstudio.com/
+VISUAL STUDIO 
+~~~
+https://code.visualstudio.com/
+~~~
 
-ATOM https://atom.io/
+ATOM 
+~~~
+https://atom.io/
+~~~
 
-SUBLIME TEXT https://www.sublimetext.com/
+SUBLIME TEXT 
+~~~
+https://www.sublimetext.com/
+~~~
 
-NOTEPAD++ https://notepad-plus-plus.org/downloads/
+NOTEPAD++ 
+~~~
+https://notepad-plus-plus.org/downloads/
+~~~
 
-KOMODO EDIT https://www.activestate.com/products/komodo-ide/downloads/edit/
+KOMODO EDIT 
+~~~
+https://www.activestate.com/products/komodo-ide/downloads/edit/
+~~~
 
-Eclipse https://www.eclipse.org/
+Eclipse 
+~~~
+https://www.eclipse.org/
+~~~
 
-Android Studio (pour développer sous Android) https://developer.android.com/studio/
+Android Studio (pour développer sous Android) 
+~~~
+https://developer.android.com/studio/
+~~~
 
-Outils pour le développement Web (en anglais): https://www.keycdn.com/blog/web-development-tools/
+Outils pour le développement Web (en anglais): 
+~~~
+https://www.keycdn.com/blog/web-development-tools/
+~~~
 
 La décision de choisir l'un ou l'autre dépend du processus de travail, de la compatibilité de votre système d'exploitation ou de celui avec lequel vous vous sentez le plus à l'aise.
 
@@ -100,12 +124,16 @@ Il ne faut pas hésitez à s'ouvrir aux autres pour poser des questions :) donc
 voici les pépites que j'ai trouvées au cours de mes recherches:
 
 - Une pépite en français:
-
+~~~
 https://www.developpez.net/forums/ 
+~~~
 
-
-- Les Pépites des communautés internationales: https://www.quora.com/topic/Computer-Programming
-  https://www.reddit.com/r/programming/ 
+- Les Pépites des communautés internationales: 
+~~~
+ https://www.quora.com/topic/Computer-Programming
+~~~
+ https://www.reddit.com/r/programming/ 
+~~~
  
 - La pépite légendaire:  https://stackoverflow.com/
 
