@@ -172,7 +172,7 @@ et pour trouver n'importe quel code dans n'importe quel langage
 https://searchcode.com/
 ~~~
 
-_Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner._
+>_Je pense que cet article pourra être modifié car j'ajouterai des informations que j'aurais pu oublier de mentionner._
 
-**_Merci beaucoup et à bientôt !_**
+>**_Merci beaucoup et à bientôt !_**
 
