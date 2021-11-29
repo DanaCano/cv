@@ -1,0 +1,3 @@
+function monalertedetest() {
+    alert ('toto');
+}

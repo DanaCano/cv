@@ -1,0 +1,98 @@
+body {
+    background-color: lavender;
+    color:MidnightBlue;
+    padding-left: 15px;
+    font-family: Georgia, "Times New Roman",
+    Times, serif;
+    background-image: linear-gradient(175deg, rgba(0,0,0,0) 95%, #8da389 95%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 95%, #8da389 95%),
+    linear-gradient(175deg, rgba(0,0,0,0) 90%, #b4b07f 90%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 92%, #b4b07f 92%),
+    linear-gradient(175deg, rgba(0,0,0,0) 85%, #c5a68e 85%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 89%, #c5a68e 89%),
+    linear-gradient(175deg, rgba(0,0,0,0) 80%, #ba9499 80%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 86%, #ba9499 86%),
+    linear-gradient(175deg, rgba(0,0,0,0) 75%, #9f8fa4 75%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 83%, #9f8fa4 83%),
+    linear-gradient(175deg, rgba(0,0,0,0) 70%, #74a6ae 70%),
+    linear-gradient( 85deg, rgba(0,0,0,0) 80%, #74a6ae 80%);
+}
+
+.bloc-bleufonce {
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    color: white;
+    background-color: RoyalBlue;
+}
+
+.bloc-bleuciel {
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    color: white;
+    background-color: LightBlue;
+}
+
+h1, h2, h3, h4 {
+    margin-top: 1.5em;
+    margin-bottom: .5em;
+}
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu {
+    float: left;
+}
+
+.menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: RoyalBlue;
+}
+
+.bloc-bleufonce {
+    width: 600px; /* On a indiqué une largeur (obligatoire) */
+    margin: auto; /* On peut donc demander à ce que le bloc soit centré avec auto */
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    color: white;
+    background-color: RoyalBlue;
+}
+
+.monlien{
+    color: white
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #333;
+    color: white;
+}
+
+.droite{
+    float:right;
+}

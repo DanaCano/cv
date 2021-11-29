@@ -1,19 +1,14 @@
-<?php
-
-echo 'toto';
-$prenom = 'Dana';
-$nom='cano';
-
-?>
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>CV Dana Cano-Page d'accueil</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="application/javascript" src="js/script.js"></script>
 </head>
 <body>
-<h1>CV <?php echo $prenom ?> Cano</h1>
+<h1>CV Dana Cano</h1>
+<!--<button onClick="monalertedetest();">Summit</button>-->
 <h2>Développeuse web et web mobile</h2>
 <h3>Synthèse du profil:</h3><br>
 <p><b>À la recherche d'une alternance en Développement web et/ou web mobile contrat de professionnalisation:</b></p>
