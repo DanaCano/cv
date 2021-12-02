@@ -1,4 +1,8 @@
-<!--<!DOCTYPE html>
+
+
+<!--à faire la modif ici pour un projet bientôt-->
+
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -56,4 +60,4 @@
 <a href="https://github.com/DanaCano" target="_blank>">github.com/DanaCano</a>
 <!-- C'est la rubrique mes projets et réseau social -->
 </body>
-</html>-->
+</html>
