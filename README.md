@@ -55,7 +55,7 @@ https://www.wampserver.com/
 
 >Pour ceux qui lisent cet article, vous pouvez installer Git mais dans mon cas, comme l'IDE PHPSTORM l'a déjà inclus, même Xcode l'a déjà aussi donc je ne l'ai pas fait par besoin. 
 
->EDI: c'est un environnement de développement intégré, un logiciel de création d'applications avec pas mal des outils de développement dans en un seul endroit ou une seule interface.
+>IDE: c'est un environnement de développement intégré, un logiciel de création d'applications avec pas mal des outils de développement dans en un seul endroit ou une seule interface.
 
 >GIT: c'est un système de contrôle de version, c'est un moyen de garder une trace des changements dans le code en cas d'un problème pour faire des comparaisons avec différentes versions de code et revenir à la version précédente si besoin.
 
